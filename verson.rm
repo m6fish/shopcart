@@ -1,0 +1,27 @@
+by RFish 2014
+
+--20140804--
+    -Ver1.0 beta-
+    view / new / edit / delete 完成
+    待完成: 登入/搜尋
+    
+--20140805--
+    -Ver2.0 beta-
+    登入/登出 完成
+    user資料加密(sha256) 完成
+    新增addAccount:增加帳號用,beta1.0
+    待完成: 搜尋/登入登出切換按鈕/彈出式視窗背景遮色片
+    
+--20140811--
+    -Ver3.0 beta-
+    完成:
+        登入登出切換按鈕
+        彈出式視窗背景遮色片
+        搜尋商品
+    未完成:
+        lock : 登入session鎖 未完 / 目前每頁各自鎖
+    
+    待完成: 
+        loading 動畫(參考:http://fgnass.github.io/spin.js/)
+        照片上傳
+        版面設計
